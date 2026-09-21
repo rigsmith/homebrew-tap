@@ -1,8 +1,8 @@
 cask "clauderig-ui" do
-  version "0.3.0"
-  sha256 "966676d5bb819862fc4f4186c6bdbb2afc2c0a162e0a94db4319371299c6447e"
+  version "0.4.0"
+  sha256 "3afa234eb3bb8deb76c20d57b81ca707161cec9b721b80349f099fb8e98b9d33"
 
-  url "https://github.com/rigsmith/rigsmith/releases/download/ui/v0.3.0/claudeRigUi_0.3.0_darwin_universal.zip"
+  url "https://github.com/rigsmith/rigsmith/releases/download/ui/v0.4.0/claudeRigUi_0.4.0_darwin_universal.zip"
   name "claudeRigUi"
   desc "Menu bar app for claudeRig: sync status and your Claude Code sessions"
   homepage "https://rigsmith.dev/clauderig/"
